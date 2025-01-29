@@ -33,7 +33,7 @@ Tensorus is an innovative platform designed to handle and process tensor data wi
    python -m utils.config
 
 
-## *Usage**
+## **Usage**
 
 ### Start the API
 
