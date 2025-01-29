@@ -49,6 +49,17 @@ Tensorus is an innovative platform designed to handle and process tensor data wi
 
 - Get Recommendations: POST /api/recommendation/predict
 
+### Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+
+For inquiries or support, reach out to [ai@tensorus.com].
 
 
    
