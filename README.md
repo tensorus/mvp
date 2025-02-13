@@ -58,8 +58,10 @@ Tensorus/
 ├── requirements.txt              # List of Python dependencies for the project
 ├── LICENSE                       # License file (e.g., MIT License)
 └── README.md                     # Main project overview and quickstart guide
+```
 
 ## **Getting Started**
+
 ### Prerequisites
 - Python 3.8 or above
 - Virtual environment (optional but recommended)
