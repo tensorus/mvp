@@ -12,6 +12,7 @@ Tensorus is an innovative platform designed to handle and process tensor data wi
 
 ## **Project Structure**
 
+```bash
 Tensorus/
 ├── api/                          # API layer for serving requests
 │   ├── app.py                    # Entry point for the API server
